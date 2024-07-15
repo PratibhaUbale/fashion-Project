@@ -1,0 +1,23 @@
+<html>
+
+    <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Navigation Bar</title>
+		<link rel="stylesheet" href="style.css">
+		
+	</head>
+	
+	<body>
+	    <div class ="ab">
+		<a href="home.html"> Home </a>
+		<a href="service.html"> Service </a>
+		<a href="blogs.html"> blogs </a>
+		<a href="About"> About </a>
+		<a href="Contact.html"> Contact us </a>
+		
+		
+		</div>
+	
+	</body>
+	
+</html>

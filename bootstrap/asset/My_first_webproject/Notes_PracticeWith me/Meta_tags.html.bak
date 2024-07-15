@@ -1,0 +1,35 @@
+<html>
+     <head>
+	      <title>Meta tag</title>
+		  <meta charset="utf-8"/>
+		  <meta name="description" content="we are learning HTML,CSS,JS"/>
+		
+	 </head>
+	 <body>
+	 <!-- 
+	 utf=> unicode transformation format
+	  
+	  meta tags: 
+	       meta data of the page
+		    eg: music album
+	meta data for the that music album 
+	    song:xyz
+		singur:pqr
+		production company:1mn
+		music director:abc
+		
+	syntax:
+	<img src="path of image file" alt="" width="npx; height="npx'/>
+	
+	-->
+	
+	<h1>Image<h1>
+	<img src="C:\Users\hp\Desktop\Images\pc.jpg" alt="Headphone" width="250px" height="200px"/>
+	
+	
+	 
+	   
+		
+	 </body>
+
+</html>

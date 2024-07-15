@@ -1,0 +1,20 @@
+*{
+	margin:0;
+	padding:0;
+}
+.ab{
+	background:#1d4052;
+	color:#fff;
+	padding:20px;
+	font-family:sans-serif;
+	
+}
+.AB{
+	text-align:right;
+
+	
+}
+a{
+	margin:20px;
+	list-style:none;
+}

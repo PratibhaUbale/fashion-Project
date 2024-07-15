@@ -1,0 +1,19 @@
+<html>
+     <head>
+	      <title>iframe_tag</title>
+		  
+		
+	 </head>
+	 <body>
+	    <iframe src="http://www.ventri.com" width="500px" height="500px"></iframe>
+		
+		<a href="http://www.ventri.com">ventry</a>
+	 
+	 
+	
+	 
+	   
+		
+	 </body>
+
+</html>

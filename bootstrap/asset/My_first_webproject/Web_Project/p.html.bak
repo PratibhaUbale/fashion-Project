@@ -1,0 +1,12 @@
+var x,
+rem;
+x=parseInt(prompt("enter any number:"));
+rem=x%2
+ 
+ if(rem==0){
+        documnet.write(x+"is even number");
+ 
+ }
+  else{
+     documnet.write(x+"is odd number");
+	 }
